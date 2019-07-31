@@ -1,1 +1,1 @@
-# Applying-Machine-Learning-Enron
+# Enron-Machine-Learning
