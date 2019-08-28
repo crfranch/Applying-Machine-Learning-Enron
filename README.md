@@ -14,3 +14,8 @@ The correlation matrix was useful in predicting one attribute from another and i
 
 In part with an exploratory analysis, I used the K-Means algorithm to help cluster the POI data; however, since the POI feature was a boolean value, I found that randomly selecting two clusters would not effectively apply to this dataset because this dataset had too many dimensions. For this reason, I moved on from the K-Means project early on in the process. However, for the purpose of this project, it is important to include the entire scope of the analysis. 
 
+In addition to the K-Means Algorithm, I performed a hierarhical analysis on the POI feature. By looking at the hierarchy of the POI, I was able to better visualize the spread between someone who is considered a Person of Interest (POI) and someone who is not. 
+
+Following an analysis of the target feature, POI, I took off with a predictive aalysis algorithm - Logistic Regression. This algorithm is based on the conept of probability. Logistic Regression is beneficial in this case as it provides an unbiased data testing point. For this project, this statistical method is used for predicting binary classes. 
+
+
