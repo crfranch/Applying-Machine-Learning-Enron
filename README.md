@@ -7,7 +7,7 @@ This technique measures the value of a security based on its current market valu
 
 In the resulting Federal investigation, a significant amount of typically confidential information entered into the public record, including tens of thousands of emails and detailed financial data for top executives.
 This data has been combined with a hand-generated list of persons of interest in the fraud case, which means individuals who were indicted, reached a settlement or plea deal with the government, or testified in exchange for prosecution immunity. 
-This data has created a dataset of 21 features for 146 employees.
+This data has created a dataset of 21 features for 146 Enron employees.
 
 For this project, a correlation matrix was created to get a direct visualization of how each of the 21 features were related to one another. 
 The correlation matrix was useful in predicting one attribute from another and impute missing values. Additionally, it was used as a basic quantity for many modelling techniques.
