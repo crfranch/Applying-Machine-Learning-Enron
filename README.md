@@ -27,6 +27,6 @@ As a result of using Naive Bayes, the following conclusions have been found as t
 3.) Interestingly enough, Scott Yeager, an employee, was convicted in the original dataset while this predictive model predicted him as not being a POI. He was acquitted of all charges after a long legal battle that went to the Supreme Court. 
 4.) Chris Calgar, another employee, was listed as a POI on the dataset, while this model predicted he was not a POI. Sure enough, his charges were dismissed. 
 5.) John Baxter, who was found dead in his car before he was to testify before Congress, was listed as a non-POI, while the model predicted it to be true. 
-6.) James Derrick was on the general counsel of Entron. While he testified before congress, the model predicted that he would be found as a POI as well. 
+6.) James Derrick was on the general counsel of Enron. While he testified before congress, the model predicted that he would be found as a POI as well. 
 
 Given the sample information above, the Naive Bayes model demonstrated to be most effective in revealing what this dataset had to offer. Overall, it was also found that a majority of the POI's have no deferred payments. Additionally, deferred salary payments made employees unsecured creditors of the company, exposing them to losing most of all of their money in their accounts. Additionally, most POI's had a higher bonus-to-salary ratio. Finally, some POI's were sending a lot of emails leading up to bankruptcy... by no coincidence, the CEO was receiving majority of those. 
