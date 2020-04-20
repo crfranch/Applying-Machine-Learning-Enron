@@ -1,6 +1,12 @@
 # Applying-Machine-Learning-Enron
 
 In 2000, Enron was one of the largest companies in the United States. 
+Enron was an American energy, commodities, and services company based in Houston, TX. that later became known for it's few acts of conspiracy, insider trading, and securities fraud. 
+
+Before going in deep with this project, it is important to note how technology has changed over time:
+Enron likely had it's own commercial intelligence group that would drive them to become "The Smartest Guys in the Room". 
+When it comes to trading, everyone needs an edge. Enron's competitive edge was to take unique market information and analyze it in full depth. There was not as much application of data analytics or a data-driven mindset at the time of Enron. This is worth noting as it helps illustrate how rapidly the energy industry, and business across the board has evolved. 
+
 By 2002, it had collapsed into bankruptcy due to widespread corporate fraud. 
 The company hid the financial losses of the trading business and other operations of the company using mark-to-market accounting. 
 This technique measures the value of a security based on its current market value instead of its book value.
